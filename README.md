@@ -174,4 +174,3 @@ Choisissez le fichier adapté à votre ordinateur sur la page Releases.
 Ce projet utilise la licence **GPL-2.0**.
 
 Consultez les fichiers de licence inclus dans le dépôt ainsi que les conditions du projet original avant de redistribuer des versions modifiées.
-/
